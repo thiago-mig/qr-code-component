@@ -38,14 +38,16 @@ p {
   width: 100%;
 }
 
-p:first-of-type {
+h1 {
   font-weight: 700;
   padding: 0px 8px;
   margin: 13px 0px;
   color: rgb(31, 50, 81);
+  font-size: 1em;
+  text-align: center;
 }
 
-p:last-child {
+p {
   font-weight: 400;
   color: rgb(123, 135, 157);
   font-size: 0.75em;
